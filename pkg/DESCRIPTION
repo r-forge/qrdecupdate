@@ -1,0 +1,10 @@
+Package: decUpdate
+Type: Package
+Title: Update of matrix decompositions
+Version: 0.001
+Date: 2009-02-25
+Author: Matthieu Stigler, Viral Shah
+Maintainer: Matthieu Stigler <Matthieu.Stigler@gmail.com>
+Description: Performs update of the QR decomposition. 
+License: GPL (>= 2)
+URL: http://tsdyn.googlecode.com

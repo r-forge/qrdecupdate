@@ -1,0 +1,8 @@
+import("stats")
+
+export(tryMe, delcols, delcolsq)
+
+S3method(print, tryMe)
+
+
+
